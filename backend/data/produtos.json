@@ -46,5 +46,13 @@
     "categoria": "Eletrônicos",
     "preco": 3500,
     "imagem": "https://via.placeholder.com/600x400"
+  },
+  {
+    "id": 7,
+    "nome": "Smartphone",
+    "descricao": "O melhor e mas completo celular do momento",
+    "categoria": "eletrônicos",
+    "preco": 8000,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnGGpsUrQg2AY7i2XXczPHm9OfGjYSAwxqReR_GphTgQ&s=10"
   }
 ]
